@@ -1,4 +1,4 @@
-# Tawasal
+# Tawasal Organization
 
 * The purpose of BRS document is to describe the requirements for the " Tawasal	
 Organization”. It will explain the purpose of developing the system. This document will be 
